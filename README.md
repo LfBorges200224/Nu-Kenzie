@@ -22,6 +22,7 @@
         <li>HTML5</li>
         <li>CSS3</li>
         <li>Style Components</li>
+        <li>React</li>
         <li>JavaScript</li>
     </ul>
 </body>
