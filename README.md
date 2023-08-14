@@ -1,6 +1,6 @@
 
 <body>
-    <h1>Calculadora Interativa em Tempo Real</h1>
+    <h1>Calculadora Nu Kenzie</h1>
     <p>Bem-vindo(a) à Calculadora Interativa em Tempo Real! Este é um projeto simples desenvolvido com HTML, JavaScript e CSS, que permite que você insira valores para soma ou subtração e veja os resultados em tempo real. Além disso, a calculadora foi projetada para ser responsiva, funcionando perfeitamente em dispositivos de diferentes tamanhos de tela.</p>
     <h2>Funcionalidades</h2>
     <ul>
